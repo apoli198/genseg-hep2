@@ -11,6 +11,6 @@ pip install wandb
 pip install pandas
 pip install opencv-python
 pip install scikit-learn
-pip install mathplotlib
+pip install matplotlib
 pip install pip==23.3
 pip install betty-ml==0.2.0

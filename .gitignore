@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+nohup.out
+data/
+pix2pix_HEp2_model/
+end2end_HEp2_model/
+test_HEp2/
+plots/
+visuals/
+checkpoints/
